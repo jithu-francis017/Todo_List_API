@@ -80,7 +80,7 @@ The following API endpoints are available for managing tasks:
 ### 4. Update a Task
 
 - **URL**: `/tasks/<int:pk>/`
-- **Method**: PUT/PATCH
+- **Method**: PUT
 - **Parameters**:
   - `pk`: The ID of the task
 - **Request Body**:

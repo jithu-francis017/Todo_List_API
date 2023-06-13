@@ -1,4 +1,8 @@
 asgiref==3.7.2
+psycopg2
+django
+dj-database-url
+gunicorn
 django
 django-cors-headers==4.0.0
 djangorestframework==3.14.0

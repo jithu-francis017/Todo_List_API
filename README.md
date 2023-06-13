@@ -3,7 +3,7 @@
 This project is a TodoLists application built using Django Rest Framework. It allows users to manage their tasks by performing CRUD operations (Create, Read, Update, Delete) through a RESTful API.
 
 
-   The project will be accessible at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
+   The project will be accessible at [https://todo-lists-api-lyp3.onrender.com/]([http://127.0.0.1:8000/](https://todo-lists-api-lyp3.onrender.com/)).
 
 ## API Endpoints
 
